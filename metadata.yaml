@@ -1,4 +1,5 @@
 _repo: The-Chronicles-of-Crime-or-The-New-Newgate-Calendar-v-22-being-a-series-of-memoirs-and-anecdo__46595
+_version: 0.1.0
 contributor:
   illustrator:
     agent_name: Browne, Hablot Knight
@@ -14,15 +15,15 @@ contributor:
     wikipedia: http://en.wikipedia.org/wiki/Hablot_Knight_Browne
 covers:
 - cover_type: archival
-  image_path: 46595/46595-h/images/cover.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 46595-h/images/cover.jpg
 creator:
   author:
     agent_name: Pelham, Camden
     gutenberg_agent_id: '43864'
     url: http://www.gutenberg.org/2009/agents/43864
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/46595#The-Chronicles-of-Crime-or-The-New-Newgate-Calendar-v-22-being-a-series-of-memoirs-and-anecdo_
 gutenberg_issued: '2014-08-16'
 gutenberg_type: Text
 identifiers:
