@@ -32,6 +32,8 @@ language: en
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: 'The Chronicles of Crime or The New Newgate Calendar. v. 2/2
 
   being a series of memoirs and anecdotes of notorious
